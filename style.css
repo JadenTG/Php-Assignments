@@ -1,0 +1,12 @@
+body{
+    background-color: #7b1326;
+}
+h1{
+    color: #f0b867;
+}
+.table{
+    border: #f0b867 2px solid;
+    color: whitesmoke;
+    padding: 2%;
+    width: 30%;
+}
